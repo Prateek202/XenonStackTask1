@@ -1,3 +1,5 @@
+Luxury Estate
+
 This is a Property Buy & Sell Platform built using the MERN stack (MongoDB, Express, React, Node.js). The platform allows users to list properties for sale, browse listed properties, add properties to their wishlist, and manage user authentication (login and register).
 
 Features
@@ -80,22 +82,29 @@ npm run dev
 
 **Screenshots
 1.  Login/Register Pages
+
 ![image](https://github.com/user-attachments/assets/5317085b-600c-47cc-9cc4-9f7a488b48c5)
 
 2. Home Page
+
 ![image](https://github.com/user-attachments/assets/ed19fb4a-7d45-4318-9e05-a059a0e6ecdf)
 
 3. Recommendations
+
 ![image](https://github.com/user-attachments/assets/b9aa6318-cf2a-41f4-8ac2-8c70cef84797)
 
 4. Add Property Page
+
 ![image](https://github.com/user-attachments/assets/e93f9346-8146-45b2-9e68-e9433c40b909)
+
 ![image](https://github.com/user-attachments/assets/768c3e13-3871-4412-8add-fc69c95169a9)
 
 5. Wishlist Page
+
 ![image](https://github.com/user-attachments/assets/a87df8c5-f092-49cb-ba60-8b78af4b0186)
 
 6. Categories
+
 ![image](https://github.com/user-attachments/assets/b8837104-f963-4709-86c2-7016f017e67d)
 
 
