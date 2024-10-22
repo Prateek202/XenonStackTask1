@@ -35,8 +35,8 @@ MongoDB (You can use MongoDB Atlas for cloud database)
 
 Clone the Repository
 
-git clone https://github.com/your-username/property-buy-sell-platform.git
-cd property-buy-sell-platform
+git clone https://github.com/Prateek202/XenonStackTask1
+
 
 
 Backend Setup
